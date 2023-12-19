@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aykuthrmnc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aykuthrmnc) 
-
-
+# 📊 GitHub Stats:
 ![aykuthrmnc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aykuthrmnc&show_icons=true&theme=transparent)
 
 ![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=aykuthrmnc&langs_count=7&theme=transparent)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aykuthrmnc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aykuthrmnc) 
